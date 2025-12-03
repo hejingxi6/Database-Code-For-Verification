@@ -5,6 +5,7 @@ import string
 import datetime
 import mysql.connector
 
+
 #配置
 DB_CONFIG = {
     "host": "localhost",
@@ -356,3 +357,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
